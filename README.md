@@ -1,1 +1,1 @@
-This is the first README file in project JAVA
+Non, c'est pas mon premier README
